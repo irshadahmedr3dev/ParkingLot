@@ -10,7 +10,7 @@ Through research and exploration, I discovered how lofty of a goal that was (at 
 This page is a walkthrough of my process and what I learned along the way.
 
 I'll start with an overview, then talk about my process, and end with some ideas for future work.
-
+,,,,
 ## Overview
 [![Unedited parking lot](https://s3-us-west-2.amazonaws.com/parkinglot-opencv/parking_shot.png)](https://www.youtube.com/watch?v=SszV59YBn_o)
 
